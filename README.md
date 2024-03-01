@@ -1,4 +1,5 @@
 <p align="center" >
+  Hi World, Im Mutia Meilani known as Seaara or Ara for short.
 <i>just a informatics student, who want to learn many things</i>
 </p>
 <p align="center" >
@@ -45,14 +46,22 @@
   <p align="center" >
       <i>GitHub Stat's</i>
     <br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=seaaralee&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
-  </p>
+      <p align="center" >
+        <img src="https://github-readme-stats.vercel.app/api?username=seaaralee&theme=radical&hide_border=true&include_all_commits=false&count_private=false"/>
+      </p>
+    </p>
+</p>
 
+<p align="center" dir="auto">
   <p align="center" >
       <i>GitHub Streak!</i>
     <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=seaaralee&theme=radical&hide_border=true"/>
-  </p>
+      <p align="center" >
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=seaaralee&theme=radical&hide_border=true"/>
+      </p>
+    </p>
+</p>
+
 
 
 
