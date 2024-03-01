@@ -1,5 +1,6 @@
 <p align="center" >
-  Hi World, Im Mutia Meilani known as Seaara or Ara for short.
+<i>Hello World, Im Mutia Meilani known as Seaara or Ara for short.
+  <br/></i>
 <i>just a informatics student, who want to learn many things</i>
 </p>
 <p align="center" >
