@@ -1,7 +1,7 @@
 <p align="center" >
 <i>Hello World, Im Mutia Meilani known as Seaara or Ara for short.
   <br/></i>
-<i>just a informatics student, who want to learn many things</i>
+<i>A Informatics student with a focus on web development. Passionate about coding and crafting digital experiences.</i>
 </p>
 <p align="center" >
 <i>୨୧</i>
